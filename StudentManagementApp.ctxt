@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=StudentManagementApp
+comment1.params=name\ rollNumber\ grade
+comment1.target=Student(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=scanner\ sms
+comment10.target=void\ searchStudent(java.util.Scanner,\ StudentManagementSystem)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getRollNumber()
+comment4.params=
+comment4.target=java.lang.String\ getGrade()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=scanner
+comment7.target=int\ getUserChoice(java.util.Scanner)
+comment8.params=scanner\ sms
+comment8.target=void\ addStudent(java.util.Scanner,\ StudentManagementSystem)
+comment9.params=scanner\ sms
+comment9.target=void\ removeStudent(java.util.Scanner,\ StudentManagementSystem)
+numComments=11
